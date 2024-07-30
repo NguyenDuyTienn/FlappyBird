@@ -7,7 +7,9 @@ Flappy Bird là một game arcade đơn giản với lối chơi dễ nắm bắ
 - Âm thanh và hiệu ứng âm thanh thú vị
 - Cơ chế điều khiển đơn giản, dễ nắm bắt
 - Chế độ chơi điểm số cao nhất
-  
+
+![image](https://github.com/user-attachments/assets/85365e43-4ed3-436e-9b19-167a67dd2c80)
+
 ## Hướng dẫn chơi
 1. Nhấn hoặc chạm vào màn hình để đẩy con chim lên.
 2. Điều khiển con chim để tránh va chạm với các ống dẫn.
